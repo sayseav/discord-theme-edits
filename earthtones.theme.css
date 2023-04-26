@@ -31,7 +31,7 @@
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://thomastonauction.com/wp-content/uploads/2022/06/JUNE.jpg');
-  --user-popout-position: Top right;
+  --user-popout-position: top right;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
