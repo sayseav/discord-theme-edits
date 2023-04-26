@@ -1,5 +1,5 @@
 /**
- * @name earthtones
+ * @name earthtones.theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -18,20 +18,20 @@
   --danger-color: #6B3F3F;
   --url-color: #4F6F56;
   --background-image: url('https://thomastonauction.com/wp-content/uploads/2022/06/JUNE.jpg');
-  --background-shading: 60%;
+  --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
+  --background-brightness: 105%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-blur: 1px;
+  --background-overlay: rgb(0,0,0,0.6);
   --user-popout-image: url('https://thomastonauction.com/wp-content/uploads/2022/06/JUNE.jpg');
-  --user-popout-position: top right;
+  --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
