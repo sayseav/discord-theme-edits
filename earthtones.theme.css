@@ -9,6 +9,8 @@
  * @BDEditor Clear Vision
 */
 
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
 :root {
   --main-color: #705B53;
   --hover-color: #53433D;
